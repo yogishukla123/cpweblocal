@@ -1,0 +1,11 @@
+**/launchConfigurations
+**/node_modules
+**/.vscode
+**/temp
+**/public/logs/**
+.project
+cc_summaries/*.json
+
+.idea
+.tmp
+test.js
